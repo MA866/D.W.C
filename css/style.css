@@ -1,0 +1,33 @@
+body
+{
+    background: url(../img/d-map.jpg) center center fixed;
+    background-size: cover;
+    font-family: Arvo,serif;
+}
+.main
+{
+    background-color: transparent;
+    margin: 0;
+    padding: 10px;
+}
+.main h1
+{
+    letter-spacing: 3px;
+    text-align: center;
+}
+.main p
+{
+    text-align: center;
+}
+#map
+{
+    width: 100%;
+    height: 500px;
+    margin: 10px auto;
+}
+#output
+{
+    font-size: 20px;
+    margin: 10px auto;
+    height: auto;
+}
